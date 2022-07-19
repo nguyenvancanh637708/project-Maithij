@@ -1,0 +1,100 @@
+*Pc*/
+@media (min-width: 1024px){
+    
+}
+/* tablet*/
+@media (max-width: 768px){
+    .container-header{
+        padding: 0px 0px 0px 10px;
+    }
+    .icon-1{
+        display: none;
+    }
+    .icon-2{
+        display: none;
+    }
+    .ul-icon{
+        align-items: normal;
+    }
+    .mobile-2{
+        width: 615px;
+    }
+    .main-2 p{
+        width: 100%;
+    }
+    .footer-nav{
+        display: none;
+    }
+}
+/* Mobile*/
+@media (max-width: 576px){
+    .logo-2{
+        width: 68px;
+        height: 31.23px;
+    }
+    .menu-main{
+        padding-top: 9px;
+        padding-bottom: 7px;
+    }
+    .container-header{
+        padding: 0px 17px 0px 18px;
+    }
+    .navbar-toggler{
+        padding: 0px;
+        border: none;
+    }
+    .main-1{
+        background-image: url('../images/Group18.png');
+        max-width: 100%;
+        height: 750px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+    }
+    .main-2{
+        position: absolute;
+        padding: 37px;
+    }
+    .main-2 h1{
+        font-size: 40px;
+        margin-bottom: 37px;
+    }
+    .main-2 p{
+        width: 300px;
+        font-size: 16px;
+    }
+    .main-2 h1 span{
+        display: block;
+    }
+    .content-2{
+        padding: 0px 77px;
+        padding-bottom: 60px;
+    }
+    .btn-1{
+        display: none;
+    }
+    .OServies{
+        padding-top: 153px;
+    }
+    .spnb{
+        display: none;
+    }
+    .mobile-2{
+        display: none;
+    }
+    .main-5{
+        display: none;
+    }
+    .main-6{
+        display: none;
+    }
+    .main-7{
+        display: none;
+    }
+    .container-footer{
+        display: none;
+    }
+    .tk{
+        display: none;
+    }
+}
